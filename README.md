@@ -75,6 +75,7 @@ Main components of the system:
 - This project is intended for educational purposes.
 - The focus is on combining web scraping with basic system design concepts.
 - No database is used; all data is stored in memory during runtime.
+- Significantly covers the Object Orianted Programming concepts.
 
 ---
 
