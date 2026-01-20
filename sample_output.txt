@@ -1,0 +1,98 @@
+Mahmut logged in.
+
+Fetched Books:
+
+Atomic Habits by James Clear.
+Genre: Horror 
+Year: 2018 
+ISBN: 1847941834
+--------------------------------------------------
+The 48 laws of power by Robert Greene.
+Genre: Philosophical
+Year: 1998
+ISBN: 0140280197
+--------------------------------------------------
+It Ends With Us by Colleen Hoover.
+Genre: Romance
+Year: August 2nd, 2016
+ISBN: 1471156265
+--------------------------------------------------
+Rich dad, poor dad by Robert T. Kiyosaki.
+Genre: Technical
+Year: 2012
+ISBN: 9781612680019
+--------------------------------------------------
+The Subtle Art of Not Giving a Fuck by Mark Manson.
+Genre: Mystery
+Year: 2019
+ISBN: 0062899147
+--------------------------------------------------
+Control Your Mind and Master Your Feelings by Eric Robertson.
+Genre: How-to
+Year: 2019
+ISBN: 1691706639
+--------------------------------------------------
+Harry Potter And The Philosopher's Stone by J. K. Rowling.
+Genre: Fantasy
+Year: 2014
+ISBN: 9781408855652
+--------------------------------------------------
+It Starts with Us by Colleen Hoover.
+Genre: Paranormal
+Year: 2023
+ISBN: 9798885792202
+--------------------------------------------------
+Twisted Love by Ana Huang.
+Genre: Fantasy
+Year: 2021
+ISBN: 9781087939278
+--------------------------------------------------
+The Psychology of Money by Morgan Housel.
+Genre: Based on a true story
+Year: September 08, 2020
+ISBN: 9780857197689
+--------------------------------------------------
+How to Win Friends and Influence People by Dale Carnegie.
+Genre: None
+Year: 2017
+ISBN: 9781501188640
+--------------------------------------------------
+It by Stephen King.
+Genre: Horror
+Year: 1987-09
+ISBN: 0451159276
+--------------------------------------------------
+Haunting Adeline by H. D. Carlton.
+Genre: Romance
+Year: 2021
+ISBN: 9781957635101
+--------------------------------------------------
+I Don't Love You Anymore by Rithvik Singh.
+Genre: Based on a true story
+Year: 2024
+ISBN: 9780143469131
+--------------------------------------------------
+Latidos Que No Dije by Roos.
+Genre: Based on a true story
+Year: 2022
+ISBN: 9798431103995
+--------------------------------------------------
+Icebreaker by Hannah Grace.
+Genre: None
+Year: 23 Aug 2022
+ISBN: 9781398525689
+--------------------------------------------------
+The Power of your Subconscious Mind by Joseph Murphy.
+Genre: Sci-fi
+Year: Apr 23, 2015
+ISBN: 8192910962
+--------------------------------------------------
+**************************************************
+
+=== Library Menu ===
+1. View all books
+2. Borrow a book
+3. Return a book
+4. View my borrowed books
+5. Exit
+Enter your choice (1-5):
